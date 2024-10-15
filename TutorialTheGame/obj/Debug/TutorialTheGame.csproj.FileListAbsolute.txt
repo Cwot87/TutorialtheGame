@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\obj\Debug\TutorialTheGame.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\obj\Debug\TutorialTheGame.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\bin\Debug\TutorialTheGame.exe.config
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\bin\Debug\TutorialTheGame.exe
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\bin\Debug\TutorialTheGame.pdb
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\obj\Debug\TutorialTheGame.exe
+C:\Users\chris\source\repos\TutorialTheGame\TutorialTheGame\obj\Debug\TutorialTheGame.pdb
